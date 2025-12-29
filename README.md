@@ -1,3 +1,7 @@
+# Fork with small changes, such as addition of [pause], and "monkey patch" at top of code for allowing GPU usage rather than CPU
+
+----
+
 # Comfy UI Kokoro
 
 <a href="https://www.buymeacoffee.com/stavsapq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="174"></a>
